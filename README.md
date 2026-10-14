@@ -1,1 +1,1 @@
-# sample20
+print ("hello world")
